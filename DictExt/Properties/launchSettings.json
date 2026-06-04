@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DictExt (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "DictExt (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
